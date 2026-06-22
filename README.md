@@ -18,3 +18,21 @@ I have also added a addresable RGB Led with an in-built ws2812b ic and also the 
 
 The expose pins are SCL , SDA , VCC , GND , DO (D OUT).
 
+# PCB 
+I have used EASYEDA for pcb degining and it a 2 layer pcb with a very basic tracing .
+TOP LAYER 
+<img width="2160" height="2102" alt="2D_PCB1_2026-06-22" src="https://github.com/user-attachments/assets/d1833f52-a29c-40c7-a2a2-51bdd5338c8d" />
+BOTTOM LAYER 
+<img width="2160" height="2102" alt="2D_PCB1_2026-06-22 (1)" src="https://github.com/user-attachments/assets/24b19a6a-f97c-4006-b027-2dc4d63ed1f1" />
+
+<img width="1068" height="1082" alt="Untitled - June 22, 2026 at 08 43 49" src="https://github.com/user-attachments/assets/e335e3f8-c942-465e-96ac-ed8373bac57f" />
+<img width="1144" height="1248" alt="Untitled - June 22, 2026 at 08 44 34" src="https://github.com/user-attachments/assets/f3fcf153-e3f0-4817-bb47-fea8aedf9223" />
+<img width="1304" height="976" alt="Untitled - June 22, 2026 at 08 43 06" src="https://github.com/user-attachments/assets/4ba8a5f2-0cfd-4049-944c-37f31858bbee" />
+
+# Firmeware 
+It's a very basic test firmware for just the rgb led 
+
+
+
+
+
