@@ -10,9 +10,8 @@ I need a attiny to work on my upcoming project that inculed some I2C protocal so
 # BOM
 | Item No. | Component | Description | Qty | Unit Price (USD) | Total Price (USD) | LCSC Part |
 |:--------:|-----------|-------------|:---:|-----------------:|------------------:|-----------|
-| 1 | Battery Holder | BAT-HLD-001-THM | 1 | $0.1450 | $0.1450 | [C22417572](https://www.lcsc.com/product
-detail/C22417572.html) |
-| 2 | Capacitor | 100nF MLCC 0402 | 2 | $0.0009 | $0.0018 | [C85953](https://www.lcsc.com/productdetail/C85953.html) |
+| 1 | Battery Holder | BAT-HLD-001-THM | 1 | $0.1450 | $0.1450 | [C22417572](https://www.lcsc.com/productdetail/C22417572.html) |
+| 2 | Capacitor | 100nF MLCC 0402 | 2 | $0.0009 | $0.0018 | [C85953](https://www.lcsc.com/productdetail/C85953.html)  |
 | 3 | Schottky Diode | 1N5819 SMA | 1 | $0.0033 | $0.0033 | [C437199](https://www.lcsc.com/product-detail/C437199.html) |
 | 4 | Yellow-Green LED | YLED0402YG 0402 | 1 | $0.0022 | $0.0022 | [C20608783](https://www.lcsc.com/product-detail/C20608783.html) |
 | 5 | RGB LED | WS2812B-V5/W 5050 | 1 | $0.0162 | $0.0162 | [C2874885](https://www.lcsc.com/product-detail/C2874885.html) |
@@ -24,9 +23,8 @@ detail/C22417572.html) |
 | 11 | Microcontroller | ATtiny85 SOIC-8 (20MHz) | 1 | $0.3650 | $0.3650 | [C31540447](https://www.lcsc.com/product-detail/C31540447.html) |
 | 12 | LiPo Charger IC | TP4056 ESOP-8 (1A) | 1 | $0.0106 | $0.0106 | [C49045948](https://www.lcsc.com/product-detail/C49045948.html) |
 | 13 | Red LED | YLED0402R 0402 | 1 | $0.0019 | $0.0019 | [C21260817](https://www.lcsc.com/product-detail/C21260817.html) |
-| 14 | MCU Programming Pads | Solder Pads for Programming | 1 | $0.0000 | $0.0000 | N/A |
-| 15 | USB Type-C Connector | MC-402L68 USB-C SMD | 1 | $0.0103 | $0.0103 | [C47326494](https://www.lcsc.com/product-detail/C47326494.html) |
-| 16 | PCB | Custom PCB Fabrication (5 pcs) | 5 | $0.5000 | $2.5000 | N/A |
+| 14 | USB Type-C Connector | MC-402L68 USB-C SMD | 1 | $0.0103 | $0.0103 | [C47326494](https://www.lcsc.com/product-detail/C47326494.html) |
+| 15 | PCB | Custom PCB Fabrication (5 pcs) | 5 | $0.5000 | $2.5000 | N/A |
 | **Total** |  |  |  |  | **$3.0625** |  |
 
 
