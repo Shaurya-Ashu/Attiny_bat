@@ -14,5 +14,5 @@ Item No.,Item Name,Description,Quantity,Price per unit (USD),Total Price (USD),L
 13,LED Red,YLED0402R 0402,1,0.0019,0.0019,https://www.lcsc.com/product-detail/C21260817.html
 14,MCU Pads,Solder Pads for MCU,1,0.0,0.0,N/A
 15,USB-C Connector,MC-402L68 USB-C SMD,1,0.0103,0.0103,https://www.lcsc.com/product-detail/C47326494.html
-16,PCB,Custom PCB fabrication (Raspberry Pi not included),5,0.5,2.5,N/A
+16,PCB,Custom PCB fabrication ,5,0.5,2.5,N/A
 ,TOTAL,Grand Total,,,3.0625,
