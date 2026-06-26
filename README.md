@@ -42,9 +42,12 @@ The expose pins are SCL , SDA , VCC , GND , DO (D OUT).
 # PCB 
 I have used EASYEDA for pcb degining and it a 2 layer pcb with a very basic tracing .
 TOP LAYER 
-<img width="2160" height="2102" alt="2D_PCB1_2026-06-22" src="https://github.com/user-attachments/assets/d1833f52-a29c-40c7-a2a2-51bdd5338c8d" />
+<img width="507" height="497" alt="Screenshot 2026-06-26 at 1 57 10 PM" src="https://github.com/user-attachments/assets/8142c705-0e73-481b-86c6-eab97317d9c2" />
+
 BOTTOM LAYER 
-<img width="2160" height="2102" alt="2D_PCB1_2026-06-22 (1)" src="https://github.com/user-attachments/assets/24b19a6a-f97c-4006-b027-2dc4d63ed1f1" />
+<img width="513" height="505" alt="Screenshot 2026-06-26 at 1 57 01 PM" src="https://github.com/user-attachments/assets/f505f478-15ab-43ca-a159-7c430de818c0" />
+
+
 
 <img width="1068" height="1082" alt="Untitled - June 22, 2026 at 08 43 49" src="https://github.com/user-attachments/assets/e335e3f8-c942-465e-96ac-ed8373bac57f" />
 <img width="1144" height="1248" alt="Untitled - June 22, 2026 at 08 44 34" src="https://github.com/user-attachments/assets/f3fcf153-e3f0-4817-bb47-fea8aedf9223" />
