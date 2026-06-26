@@ -7,7 +7,7 @@ It's a samll dev board based on attiny 85 and has a in built battery charging ic
 
 # Why i build it 
 I need a attiny to work on my upcoming project that inculed some I2C protocal so i built this.
-It can also work as a stand alone device with it's in-built battery and can be easly charged & programed by USB-C, so it's a great device which could be used in my future projectes .
+It can also work as a stand alone device with it's in-built battery and can be easly charged & programed by USB-C, so it's a great device which could be used in my future projects.
 
 # BOM
 | Item No. | Component | Description | Qty | Unit Price (USD) | Total Price (USD) | LCSC Part |
