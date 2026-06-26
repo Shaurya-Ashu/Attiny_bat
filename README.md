@@ -2,11 +2,12 @@
 It's a samll dev board based on attiny 85 and has a in built battery charging ic and a rgb led .
 
 # Zine 
-<img width="540" height="828" alt="Frame 6-4" src="https://github.com/user-attachments/assets/a9ee8d6b-bd56-44a7-b0cd-8460c02b128b" />
+<img width="540" height="828" alt="Frame 6-5" src="https://github.com/user-attachments/assets/8f56b3d3-d8c7-42f4-86cb-3efd8f084a27" />
 
 
 # Why i build it 
-I need a attiny to work on my upcoming project that inculed some I2C protocal so i built this 
+I need a attiny to work on my upcoming project that inculed some I2C protocal so i built this.
+It can also work as a stand alone device with it's in-built battery and can be easly charged & programed by USB-C, so it's a great device which could be used in my future projectes .
 
 # BOM
 | Item No. | Component | Description | Qty | Unit Price (USD) | Total Price (USD) | LCSC Part |
