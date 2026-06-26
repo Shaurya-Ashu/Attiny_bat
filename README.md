@@ -53,7 +53,7 @@ BOTTOM LAYER
 <img width="1144" height="1248" alt="Untitled - June 22, 2026 at 08 44 34" src="https://github.com/user-attachments/assets/f3fcf153-e3f0-4817-bb47-fea8aedf9223" />
 <img width="1304" height="976" alt="Untitled - June 22, 2026 at 08 43 06" src="https://github.com/user-attachments/assets/4ba8a5f2-0cfd-4049-944c-37f31858bbee" />
 
-# Firmeware 
+# Firmware 
 It's a very basic test firmware for just the rgb led 
 
 
